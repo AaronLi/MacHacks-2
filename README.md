@@ -24,7 +24,7 @@ We used **Google Colab** to work in a collaborative coding setting. To translate
 ## Accomplishments that we're proud of
 - This was everyone on the team's **first time making a deep learning (DL) model**. It was exciting to see everything come together!
 - This was also our team's **first time working with NLP and tokenization**! Finding a way to preserve key information and features while quantizing the data was something new and of great importance to us.
-- Our model was able to classify reactions for the first EC number with an **accuracy of _____%**! We were surprised and excited about this result! 
+- Our model was able to classify reactions for the first EC number with an **accuracy of 79%**! We were surprised and excited about this result! 
 - For our team, this was one of the first projects that we worked on to **bridge the gap between chemistry and computer science**. It was interesting to see the intersection between the two fields and the breadth of applications for DL. 
 
 ## What we learned
