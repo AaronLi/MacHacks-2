@@ -1,5 +1,8 @@
 # MacHacks-2
 
+## Note 
+**Data for training and testing were provided from https://github.com/magarveylab/ec_chem_machacks2.git**
+
 ## Inspiration
 Our team was drawn to this challenge due to the **bioengineering** backgrounds of some of our team members. In many of our chemistry and anatomy classes, we have learned about the **application and importance of enzymes**. Enzymes affect chemical reactions that are happening in our bodies every day. This project gave us the opportunity to further **extend our knowledge** and **use our computer science skills** to solve the challenge.  _This project is just one of the many pieces of the puzzle that come together to help us understand the complexity of living things._
 
