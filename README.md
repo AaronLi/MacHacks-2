@@ -1,4 +1,4 @@
-# MacHacks-2
+# Denatured - Submitted to MacHacks 2
 
 ## Note 
 **Data for training and testing were provided from https://github.com/magarveylab/ec_chem_machacks2.git**
